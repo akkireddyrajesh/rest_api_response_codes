@@ -1,0 +1,386 @@
+{
+    "100": {
+        "_id": "100",
+        "status_code": "100",
+        "message": "Continue",
+        "desc": [
+            "Continue "
+        ]
+    },
+    "101": {
+        "_id": "101",
+        "status_code": "101",
+        "message": "Switching Protocols",
+        "desc": [
+            "Switching Protocols"
+        ]
+    },
+    "200": {
+        "_id": "200",
+        "status_code": "200",
+        "message": "OK",
+        "desc": [
+            "query exicuted successfully"
+        ]
+    },
+    "201": {
+        "_id": "201",
+        "status_code": "201",
+        "message": "Created",
+        "desc": [
+            "Record Created Successfully"
+        ]
+    },
+    "202": {
+        "_id": "202",
+        "status_code": "202",
+        "message": "Accepted",
+        "desc": [
+            "Request Accepted"
+        ]
+    },
+    "203": {
+        "_id": "203",
+        "status_code": "203",
+        "message": "Non-Authoritative Information",
+        "desc": [
+            "Non-Authoritative Information"
+        ]
+    },
+    "204": {
+        "_id": "204",
+        "status_code": "204",
+        "message": "No Content",
+        "desc": [
+            "No Content or Empty records Found"
+        ]
+    },
+    "205": {
+        "_id": "205",
+        "status_code": "205",
+        "message": "Reset Content",
+        "desc": [
+            "Reset Content"
+        ]
+    },
+    "206": {
+        "_id": "206",
+        "status_code": "206",
+        "message": "Partial Content",
+        "desc": [
+            "Partial Content"
+        ]
+    },
+    "2011": {
+        "_id": "2011",
+        "responsecode": "201",
+        "message": "Data Deleted",
+        "desc": [
+            "data/record(s) deleted successfully"
+        ]
+    },
+    "2012": {
+        "_id": "2012",
+        "responsecode": "201",
+        "message": "Data Updated ",
+        "desc": [
+            "data/record(s) updated successfully"
+        ]
+    },
+    "2022": {
+        "_id": "2022",
+        "responsecode": "202",
+        "message": "Rejected",
+        "desc": [
+            "Request Rejected"
+        ]
+    },
+    "300": {
+        "_id": "300",
+        "status_code": "300",
+        "message": "Multiple Choices",
+        "desc": [
+            "Multiple Choices"
+        ]
+    },
+    "301": {
+        "_id": "301",
+        "status_code": "301",
+        "message": "Moved Permanently",
+        "desc": [
+            "Moved Permanently"
+        ]
+    },
+    "302": {
+        "_id": "302",
+        "status_code": "302",
+        "message": "Found",
+        "desc": [
+            "Found"
+        ]
+    },
+    "303": {
+        "_id": "303",
+        "status_code": "303",
+        "message": "See Other",
+        "desc": [
+            "See Other"
+        ]
+    },
+    "304": {
+        "_id": "304",
+        "status_code": "304",
+        "message": "Not Modified",
+        "desc": [
+            "Not Modified"
+        ]
+    },
+    "305": {
+        "_id": "305",
+        "status_code": "305",
+        "message": "Use Proxy",
+        "desc": [
+            "Use Proxy"
+        ]
+    },
+    "307": {
+        "_id": "307",
+        "status_code": "307",
+        "message": "Temporary Redirect",
+        "desc": [
+            "Temporary Redirect"
+        ]
+    },
+    "400": {
+        "_id": "400",
+        "status_code": "400",
+        "message": "Bad Request",
+        "desc": [
+            "Bad Request"
+        ]
+    },
+    "401": {
+        "_id": "401",
+        "status_code": "401",
+        "message": "Unauthorized",
+        "desc": [
+            "Unauthorized"
+        ]
+    },
+    "402": {
+        "_id": "402",
+        "status_code": "402",
+        "message": "Payment Required",
+        "desc": [
+            "Payment Required"
+        ]
+    },
+    "403": {
+        "_id": "403",
+        "status_code": "403",
+        "message": "Forbidden",
+        "desc": [
+            "Forbidden"
+        ]
+    },
+    "404": {
+        "_id": "404",
+        "status_code": "404",
+        "message": "Not Found",
+        "desc": [
+            "Not Found"
+        ]
+    },
+    "405": {
+        "_id": "405",
+        "status_code": "405",
+        "message": "Method Not Allowed",
+        "desc": [
+            "Method Not Allowed"
+        ]
+    },
+    "406": {
+        "_id": "406",
+        "status_code": "406",
+        "message": "Not Acceptable",
+        "desc": [
+            "Not Acceptable"
+        ]
+    },
+    "407": {
+        "_id": "407",
+        "status_code": "407",
+        "message": "Proxy Authentication Required",
+        "desc": [
+            "Proxy Authentication Required"
+        ]
+    },
+    "408": {
+        "_id": "408",
+        "status_code": "408",
+        "message": "Request Time-out",
+        "desc": [
+            "Request Time-out"
+        ]
+    },
+    "409": {
+        "_id": "409",
+        "status_code": "409",
+        "message": "Conflict",
+        "desc": [
+            "Conflict"
+        ]
+    },
+    "410": {
+        "_id": "410",
+        "status_code": "410",
+        "message": "Gone",
+        "desc": [
+            "Gone"
+        ]
+    },
+    "411": {
+        "_id": "411",
+        "status_code": "411",
+        "message": "Length Required",
+        "desc": [
+            "Length Required"
+        ]
+    },
+    "412": {
+        "_id": "412",
+        "status_code": "412",
+        "message": "Precondition Failed",
+        "desc": [
+            "Precondition Failed"
+        ]
+    },
+    "413": {
+        "_id": "413",
+        "status_code": "413",
+        "message": "Request Entity Too Large",
+        "desc": [
+            "Request Entity Too Large"
+        ]
+    },
+    "414": {
+        "_id": "414",
+        "status_code": "414",
+        "message": "Request-URI Too Large",
+        "desc": [
+            "Request-URI Too Large"
+        ]
+    },
+    "415": {
+        "_id": "415",
+        "status_code": "415",
+        "message": "Unsupported Media Type",
+        "desc": [
+            "Unsupported Media Type"
+        ]
+    },
+    "416": {
+        "_id": "416",
+        "status_code": "416",
+        "message": "Requested range not satisfiable",
+        "desc": [
+            "Requested range not satisfiable"
+        ]
+    },
+    "417": {
+        "_id": "417",
+        "status_code": "417",
+        "message": "Expectation Failed",
+        "desc": [
+            "Expectation Failed"
+        ]
+    },
+    "4001": {
+        "_id": "4001",
+        "responsecode": "400",
+        "message": "Invalid Parameters",
+        "desc": [
+            "Invalid Parameters"
+        ]
+    },
+    "4002": {
+        "_id": "4002",
+        "responsecode": "400",
+        "message": "Invalid Payload",
+        "desc": [
+            "Invalid body or payload data"
+        ]
+    },
+    "4011": {
+        "_id": "4011",
+        "responsecode": "400",
+        "message": "Invalid Headers",
+        "desc": [
+            "Headers Missing or invalid Headers. Required headers are not supplied"
+        ]
+    },
+    "4012": {
+        "_id": "4012",
+        "responsecode": "400",
+        "message": "Invalid Auth Token",
+        "desc": [
+            "Auth Token/bearer token Missing. Required Auth Token is not supplied"
+        ]
+    },
+    "4013": {
+        "_id": "4013",
+        "responsecode": "400",
+        "message": "Invalid Credetials",
+        "desc": [
+            "Invalid credetials. username or password not matched to our records"
+        ]
+    },
+    "500": {
+        "_id": "500",
+        "status_code": "500",
+        "message": "Internal Server Error",
+        "desc": [
+            "Internal Server Error"
+        ]
+    },
+    "501": {
+        "_id": "501",
+        "status_code": "501",
+        "message": "Not Implemented",
+        "desc": [
+            "Not Implemented"
+        ]
+    },
+    "502": {
+        "_id": "502",
+        "status_code": "502",
+        "message": "Bad Gateway",
+        "desc": [
+            "Bad Gateway"
+        ]
+    },
+    "503": {
+        "_id": "503",
+        "status_code": "503",
+        "message": "Service Unavailable",
+        "desc": [
+            "Service Unavailable"
+        ]
+    },
+    "504": {
+        "_id": "504",
+        "status_code": "504",
+        "message": "Gateway Time-out",
+        "desc": [
+            "Gateway Time-out"
+        ]
+    },
+    "505": {
+        "_id": "505",
+        "status_code": "505",
+        "message": "HTTP Version not supported",
+        "desc": [
+            "HTTP Version not supported"
+        ]
+    }
+}
