@@ -78,27 +78,29 @@ sample standard response codes json. intended to use in REST API response genera
 
 ```
 
-Rest API Response codes JSON:
+Note: Section Refers to chapter in rfc2616 Doc. <a href="https://www.ietf.org/rfc/rfc2616.txt">click here</a>.
+
+Sample Format of REST API Response codes JSON :
 ```
 "200":{
         "_id":"200",
         "status_code":"200",
         "message":"success",
         "desc":"request acceppted successfully"
-    },
+    }
 ```
 
 ## custom response codes preparation:
 
 The main intention for creating these custom response codes are to eliminate the creating frequently using REST API Regular Responses/response errors [like invalid parameters ...] for every time.
 
-response codes will be 4-digits for below reasons:
+custom response codes will be 4-digits for below reasons:
 
   1. for differentiating standard HTTP/1.1 codes and our custom response codes.
 
         a. The first digit of the Status-Code defines the class of response[same as HTTP/1.1].
 
-        a. The first 3-digits are HTTP/1.1 response codes and our custom response under that category         only.   
+        b. The first 3-digits are HTTP/1.1 response codes and our custom response under that category         only.   
 
 
 ```
